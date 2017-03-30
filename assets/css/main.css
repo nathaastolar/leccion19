@@ -1,0 +1,17 @@
+.animal{
+  width: 350px;
+  height: 400px;
+  margin:0;
+}
+.blanco-negro{
+  filter: grayscale(100);
+  -webkit- filter: grayscale(100%);
+}
+.invertir-colores{
+  -webkit-filter: invert(.8);
+  filter: invert(.8);
+}
+.zepia{
+  -webkit-filter: sepia(1);
+  filter:sepia(1);
+  }
